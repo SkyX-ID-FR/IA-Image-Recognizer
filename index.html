@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!-- This webAPP was created by SkyX [ID FR], Darcie07, Dark007, Akare90 ! -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IA Pictures & More©</title>
+
+    <link rel="stylesheet" href="app.css">
+    <link rel="icon" type="image/png" href="https://img.icons8.com/color/50/000000/ios-photos.png" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.1"> </script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@1.0.0"> </script>
+</head>
+<body class="loading">
+    <main>
+        <div class="loader">
+            <h2>Loading ...</h2>
+        </div>
+
+        <img src="https://img.icons8.com/color/50/000000/ios-photos.png" class="icon">
+        <h1 class="home-text">IA Pictures & More©</h1>
+        <p class="autors">By SkyX [ID FR], Darcie07, Dark007, and Akare90 !</p>
+
+        <section class="image-section">
+            <img src="" id="image" />
+            <div class="image-prediction" id="prediction"></div>
+        </section>
+
+        <section class="file-section">
+            <div class="file-group">
+                <label for="file-input" accept="image/x-png,image/gif,image/jpeg">Choisis ta photo !</label>
+                <input type="file" id="file-input" />
+                <div class="error" id="input-error">ERROR 00 : As-tu bien choisis une photo ?</div>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
