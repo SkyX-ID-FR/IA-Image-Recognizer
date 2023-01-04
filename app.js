@@ -14,8 +14,8 @@ function displayDescription(predictions) {
 
   if (result.probability > 0.2) {
     const probability = Math.round(result.probability * 100);
-    description.innerText = `C'est à ${probability}% sûre que c'est un/une ${result.className.replace(',', ' ou le/la')}`;
-  } else description.innerText = 'Désolé, mais IA Pictures & More© ne peux pas reconnaître ton image... 😢';
+    description.innerText = `[${probability}%] It's ${result.className.replace(',', 'a')}`;
+  } else description.innerText = 'Sorry, but IA Pictures & More© cannot recognize your image... 😢';
 }
 
 function classifyImage() {
