@@ -17,4 +17,4 @@ Merci à @Darcie pour cette idée juste parfaite par rapport à ta passion pour 
 Merci à @Dark007 pour tes conseils et avis portés sur ce min-projet. 📚<br/>
 Merci à @Akare90 pour le temps que tu as passé à faire ce design simple et purifié. 🎨<br/>
 
-<br/><hr/><p align="center">Made with <font color="red">❤</font> by @SkyX-ID-FR <br/>Version 1.0</p>
+<h1></h1><br/><p align="center">Made with <font color="red">❤</font> by @SkyX-ID-FR <br/>Copyright© 2022 - Version 1.0</p>
