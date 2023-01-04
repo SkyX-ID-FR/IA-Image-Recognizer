@@ -2,7 +2,7 @@
 <img align="left" src="https://img.icons8.com/color/50/000000/ios-photos.png"/>
 
 
-_IA Image Recognizer_ est une application web statique qui grâce à __l'API Trenserflow__ (https://www.tensorflow.org/api_docs) et à __une IA crée__ effectue une reconnaissance faciale pour déterminer quel animal se cache derrière une photo uploadée par l'utilisateur. <p align="center">L'application est à jour et hébergée continuellement avec les Github pages, on peut la retrouver juste ici : <br/> 🔗 https://skyx-id-fr.github.io/IA-Image-Recognizer/ 🔗</p><br/>
+_IA Image Recognizer_ est une application web statique qui grâce à __l'API Trenserflow__ (https://www.tensorflow.org/api_docs) et à __une IA crée__ effectue une reconnaissance faciale pour déterminer quel animal se cache derrière une photo uploadée par l'utilisateur. L'application est à jour et hébergée continuellement avec les Github pages, on peut la retrouver juste ici : <br/><p align="center">🔗 https://skyx-id-fr.github.io/IA-Image-Recognizer/ 🔗</p><br/>
 
 <h1 align="center">🔨 · Fonctionnement de l'IA · 🔨</h1>
 
